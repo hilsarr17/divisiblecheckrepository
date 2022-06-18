@@ -1,0 +1,1 @@
+package sn.niit.divisiblechecker;
