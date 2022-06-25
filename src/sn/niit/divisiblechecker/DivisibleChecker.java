@@ -13,7 +13,7 @@ public class DivisibleChecker
 		System.out.println("Entrez le premier nombre ");
 		nombre1=scanner.nextInt();
 		
-		System.out.println("Entrez le 2ème nombre ");
+		System.out.println("Entrez le deuxieme nombre ");
 		nombre2=scanner.nextInt();
 		
 		if(nombre2 ==0) 
