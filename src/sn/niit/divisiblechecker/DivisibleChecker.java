@@ -4,9 +4,7 @@ import java.util.Scanner;
 
 public class DivisibleChecker 
 {
-
-	public static void main(String[] args) 
-	
+	public static void main(String[] args) 	
 	{
 		// TODO Auto-generated method stub
 		
@@ -15,7 +13,7 @@ public class DivisibleChecker
 		System.out.println("Entrez le premier nombre ");
 		nombre1=scanner.nextInt();
 		
-		System.out.println("Entrez le deuxième nombre ");
+		System.out.println("Entrez le 2ème nombre ");
 		nombre2=scanner.nextInt();
 		
 		if(nombre2 ==0) 
